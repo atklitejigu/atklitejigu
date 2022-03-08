@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atklitejigu
-- 👀 I’m interested in Data Projects using STATA
-- 🌱 I’m currently learning Applied Economics
+- 👀 I’m currently learning Applied Economics
+- 🌱 I’m interested in Data Projects using STATA and R
 - 💞️ I’m looking to collaborate on Economics Data Analysis
 - 📫 How to reach me email me via aejigu@umd.edu
 
